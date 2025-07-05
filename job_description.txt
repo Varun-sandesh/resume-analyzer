@@ -1,0 +1,25 @@
+Job Title: Software Developer Intern
+Job Description:
+We are looking for a passionate and self-motivated Software Developer Intern to join our team. The candidate will work on developing and testing web applications and automation tools.
+
+Requirements:
+Strong knowledge of Python and object-oriented programming
+
+Familiarity with Django or Flask
+
+Experience with SQL and databases
+
+Understanding of APIs and RESTful services
+
+Basic knowledge of HTML, CSS, and JavaScript
+
+Good problem-solving and communication skills
+
+Ability to work in a team and meet deadlines
+
+Bonus Skills:
+Knowledge of Git/GitHub
+
+Experience with Linux
+
+Exposure to cloud platforms like AWS or Azure
